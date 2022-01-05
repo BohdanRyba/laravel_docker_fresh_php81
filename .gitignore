@@ -1,0 +1,10 @@
+!/data/elasticsearch/.gitkeep
+!/data/redis/.gitkeep
+!/data/mysql/.gitkeep
+!/data/rabbitmq/.gitkeep
+!/data/.gitkeep
+/data
+/logs
+/.idea
+!/code/.gitkeep
+/code
